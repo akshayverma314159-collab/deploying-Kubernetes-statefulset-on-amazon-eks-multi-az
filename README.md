@@ -1,0 +1,1 @@
+# deploying-Kubernetes-statefulset-on-amazon-eks-multi-az
